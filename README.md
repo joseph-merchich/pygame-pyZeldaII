@@ -1,5 +1,5 @@
 
-run the game with 'python game.py' in this directory
+run the game with 'game.py' in this directory
 
 Manual
 
