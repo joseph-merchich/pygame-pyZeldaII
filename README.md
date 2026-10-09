@@ -1,4 +1,6 @@
-This is a game that I got off Github and debugged. It only halfway works so I definitely welcome PRs!
+This is a game that I got off Github and debugged. 
+It only halfway works so I definitely welcome PRs!
+
 run the game with 'python game.py' in this directory
 
 Manual
